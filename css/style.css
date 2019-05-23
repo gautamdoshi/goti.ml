@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Coda&display=swap');
+
+body {
+	background-color: #070707;
+	color: #eeeeee;
+	font-family: 'Coda', cursive;
+}
+
+.under-construction {
+	text-align: center;
+	font-size: 2rem;
+	margin-top: 15rem;
+}
